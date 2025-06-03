@@ -9,7 +9,7 @@ Fakta nyata hantu orang gendut yang begentayangan
    ```
    $ pip install -r requirements.txt
    ```
-genduuuuuuuut
+falihandra rahman
 
    ```
    $ streamlit run streamlit_app.py
